@@ -2,7 +2,7 @@
 
 A macOS screen saver that recreates the nostalgic DOS-era disk defragmentation experience — complete with a classic blue color scheme, animated cluster map, and real-time status output.
 
-![Preview](MacDefrag.jpg)
+![Preview](MacDefrag_Preview.jpg)
 
 ---
 
