@@ -6,6 +6,12 @@ A macOS screen saver that recreates the nostalgic DOS-era disk defragmentation e
 
 ---
 
+It does not make your SSD faster. It does not fix your filesystem. It does not improve your productivity.
+
+What it does do is fill your screen with a lovingly fake retro defrag display: blue DOS-style colors, animated disk clusters, progress bars, status text, and the comforting illusion that your computer is doing something extremely technical and important.
+
+Perfect for retro-PC fans, old-school nerds, or anyone who thinks “watching colored blocks move around” counts as entertainment.
+
 ## Features
 
 - **4-phase animation loop** — Scan → Analyze → Defrag → Complete, then seamlessly restarts
